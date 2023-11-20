@@ -6,7 +6,7 @@
 
 - Phone: [+79097820123](tel:+79097820123) [+381628929698](tel:+381628929698)
 
-- LinkedIn: [Nikita Abramov](hthttps://www.linkedin.com/in/nikkita-abramov/?locale=en_US)
+- LinkedIn: [Nikita Abramov](https://www.linkedin.com/in/nikkita-abramov/?locale=en_US)
 
 - GitHub: [My Profile](https://github.com/niramov)
 
@@ -38,7 +38,7 @@ My projects:
 
 #### Director, Head of Sales Department, Audi, Mazda, Toyota, Hyundai dealership (02/2007 - 01/2023)
 
-**_Responsibilities:_**
+Responsibilities:
 
 - Managed all dealership operations.
 - Set and resolved financial and operational challenges, consistently meeting and exceeding importer and company group's plans, including financial targets.
